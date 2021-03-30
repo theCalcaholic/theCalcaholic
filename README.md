@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Github Stats - Overview][gh-stats-overview] ![Github Stats - Languages][gh-stats-languages]
+
 <!--
 **theCalcaholic/theCalcaholic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[gh-stats-languages]: https://raw.githubusercontent.com/theCalcaholic/github-stats/master/generated/languages.svg
+[gh-stats-overview]: https://raw.githubusercontent.com/theCalcaholic/github-stats/master/generated/overview.svg
