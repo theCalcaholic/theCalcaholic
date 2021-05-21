@@ -2,6 +2,8 @@
 
 ![Github Stats - Overview][gh-stats-overview] ![Github Stats - Languages][gh-stats-languages]
 
+(powered by [jstrieb/github-stats][gh-stats])
+
 <!--
 **theCalcaholic/theCalcaholic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +21,4 @@ Here are some ideas to get you started:
 
 [gh-stats-languages]: https://raw.githubusercontent.com/theCalcaholic/github-stats/master/generated/languages.svg
 [gh-stats-overview]: https://raw.githubusercontent.com/theCalcaholic/github-stats/master/generated/overview.svg
+[gh-stats]: https://github.com/jstrieb/github-stats
