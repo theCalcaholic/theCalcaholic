@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--![Github Stats - Overview][gh-stats-overview]--> ![Github Stats - Languages][gh-stats-languages]
+<!--![Github Stats - Overview][gh-stats-overview] --> 
+![Github Stats - Languages][gh-stats-languages]
 
 (powered by [jstrieb/github-stats][gh-stats])
 
