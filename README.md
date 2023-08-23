@@ -1,7 +1,16 @@
 ### Hi there 👋
 
-![Github Stats - Overview][gh-stats-overview]
-![Github Stats - Languages][gh-stats-languages]
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theCalcaholic/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theCalcaholic/github-stats/master/generated/overview.svg#gh-light-mode-only">
+  <img alt="Github Stats - Languages" src="https://raw.githubusercontent.com/theCalcaholic/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theCalcaholic/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theCalcaholic/github-stats/master/generated/languages.svg#gh-light-mode-only">
+  <img alt="Github Stats - Languages" src="https://raw.githubusercontent.com/theCalcaholic/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+</picture>
 
 (powered by [jstrieb/github-stats][gh-stats])
 
@@ -20,6 +29,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[gh-stats-languages]: https://raw.githubusercontent.com/theCalcaholic/github-stats/master/generated/languages.svg
-[gh-stats-overview]: https://raw.githubusercontent.com/theCalcaholic/github-stats/master/generated/overview.svg
 [gh-stats]: https://github.com/jstrieb/github-stats
