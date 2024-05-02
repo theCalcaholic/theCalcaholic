@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome to my profile 👋
+
+I'm enthusiastic about FOSS, privacy and IT security and create Open Source projects in my free time. Let me know, if you find any of it useful!
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theCalcaholic/github-stats/master/generated/overview.svg#gh-dark-mode-only">
@@ -13,6 +16,9 @@
 </picture>
 
 (powered by [jstrieb/github-stats][gh-stats])
+
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V5XLS9F)
 
 <!--
 **theCalcaholic/theCalcaholic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
