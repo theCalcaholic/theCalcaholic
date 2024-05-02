@@ -18,7 +18,7 @@ I'm enthusiastic about FOSS, privacy and IT security and create Open Source proj
 (powered by [jstrieb/github-stats][gh-stats])
 
 
-<!--[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V5XLS9F)-->
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V5XLS9F)
 
 <!--
 **theCalcaholic/theCalcaholic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
