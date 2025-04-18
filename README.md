@@ -2,8 +2,10 @@
 
 I'm enthusiastic about FOSS, privacy and IT security and create Open Source projects in my free time. Let me know, if you find any of it useful!
 
+Feel free to check out my projects, e.g. [Nextcloud Atomic](https://nextcloudatomic.com) and [Nextcloud Secrets](https://apps.nextcloud.com/apps/secrets).
 
-<picture>
+
+<!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theCalcaholic/github-stats/master/generated/overview.svg#gh-dark-mode-only">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theCalcaholic/github-stats/master/generated/overview.svg#gh-light-mode-only">
   <img alt="Github Stats - Languages" src="https://raw.githubusercontent.com/theCalcaholic/github-stats/master/generated/overview.svg#gh-dark-mode-only">
@@ -15,7 +17,7 @@ I'm enthusiastic about FOSS, privacy and IT security and create Open Source proj
   <img alt="Github Stats - Languages" src="https://raw.githubusercontent.com/theCalcaholic/github-stats/master/generated/languages.svg#gh-dark-mode-only">
 </picture>
 
-(powered by [jstrieb/github-stats][gh-stats])
+(powered by [jstrieb/github-stats][gh-stats])-->
 
 
 <!--[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V5XLS9F)-->
